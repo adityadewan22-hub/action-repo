@@ -4,3 +4,4 @@ yay
 boo
 no
 again
+check
